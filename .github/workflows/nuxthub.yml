@@ -39,5 +39,5 @@ jobs:
         uses: nuxt-hub/action@v1
         id: deploy
         with:
-          project-key: cardamon-com-e1k6
+          project-key: cardamon-com-9ujv
           directory: Cardamon.art/dist
